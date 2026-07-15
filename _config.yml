@@ -56,8 +56,8 @@ plugins:
 
 author:
   name   : "Russ White"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hello, I'm Russ and my role is Data & GIS Specialist at Cal Poly San Luis Obospo, Kennedy Library."
+  avatar : "/assets/images/profile.jpg"
+  bio    : "Hello, I'm Russ and my role is Data & GIS Specialist at Cal Poly San Luis Obispo, Kennedy Library."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
