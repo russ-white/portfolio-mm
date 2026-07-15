@@ -18,7 +18,7 @@ email: rwhite@calpoly.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Professional portfolio page for Russ White.
 github_username: russ-white
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
