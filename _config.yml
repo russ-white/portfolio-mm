@@ -99,5 +99,8 @@ tag_archive:
   type: liquid
   path: /tags/
 
+logo: "/assets/images/dpl_logo.png"
+
+
 
 
