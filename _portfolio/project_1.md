@@ -2,7 +2,7 @@
 title: "Project 1"
 excerpt: "Developed a website portfolio template for undergradute researchers."
 header:
-  image: /assets/images/foo-bar-identity.jpg
+  image: /assets/images/foo-bar-identity_banner.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
   - title: "Role"
