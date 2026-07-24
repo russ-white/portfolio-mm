@@ -2,8 +2,8 @@
 title: "Project 1"
 excerpt: "Developed a website portfolio template for undergradute researchers."
 header:
-  image: /assets/images/foo-bar-identity_banner.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/unsplash-image-3_banner.jpg
+  teaser: /assets/images/unsplash-image-3_th.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
