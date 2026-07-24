@@ -23,7 +23,6 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-## Project Overview
 Project text includes a brief paragraph to describe your projecct to a general audience. Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. The Gallery below shows some featured images
 
 ## Gallery
