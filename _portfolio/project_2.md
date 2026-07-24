@@ -2,7 +2,7 @@
 title: "Project 2"
 excerpt: "Developed an GIS-based interactive dashboard for campus trees."
 header:
-  image: /assets/images/unsplash-gallery-image-2
+  image: /assets/images/unsplash-gallery-image-2.jpg
   teaser: /assets/images/unsplash-gallery-image-2-th.jpg
 sidebar:
   - title: "Role"
