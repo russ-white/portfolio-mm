@@ -2,7 +2,7 @@
 title: "Project 3"
 excerpt: "Created active learning workshops for introductory computing and digital scholarship."
 header:
-  image: /assets/images/unsplash-gallery-image-3
+  image: /assets/images/unsplash-gallery-image-3.jpg
   teaser: /assets/images/unsplash-gallery-image-3-th.jpg
 sidebar:
   - title: "Role"
