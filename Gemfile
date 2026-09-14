@@ -1,9 +1,15 @@
-#source "https://rubygems.org"
+source "https://rubygems.org"
 
-#gem "jekyll"
+gem "jekyll", "~> 4.4.1"
 gem "minimal-mistakes-jekyll"
+gem "liquid", "4.0.4"
+gem "webrick"
 
-#gem "github-pages", group: :jekyll_plugins
+# Force modern Ruby standard compatibility
+gem "uri", ">= 1.0.0" 
+
+
+
 #gem "bigdecimal"
 gem "csv"
 gem "ostruct"
