@@ -1,10 +1,17 @@
-source "https://rubygems.org"
+#source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
-gem "bigdecimal"
+#gem "jekyll"
+gem "minimal-mistakes-jekyll"
+
+#gem "github-pages", group: :jekyll_plugins
+#gem "bigdecimal"
 gem "csv"
-gem "tzinfo-data"
+gem "ostruct"
+
+#gem "tzinfo-data"
+#gem "rexml"
 #gem "wdm", "~> 0.1.0" if Gem.win_platform?
+#gem 'wdm', '>= 0.1.0'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
